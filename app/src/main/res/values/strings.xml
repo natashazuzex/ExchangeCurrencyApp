@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exchange Currency App</string>
+
+    <string name="text_source_currency">Source currency</string>
+    <string name="text_final_currency">Final currency</string>
+    <string name="text_sum_source_currency">Source currency amount</string>
+    <string name="text_sum_final_currency">Amount in final currency:</string>
+    <string name="text_result">0.0</string>
+    <string name="text_ok">ОК</string>
+
+    <string-array name="currencies">
+        <item>GBP</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CAD</item>
+    </string-array>
+
+</resources>
